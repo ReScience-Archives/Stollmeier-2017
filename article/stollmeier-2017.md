@@ -11,20 +11,21 @@ Address:
 Contact:
   - franks@nld.ds.mpg.de
 Editor:
-  - Name Surname
+  - C. Titus Brown
 Reviewer:
-  - Name Surname
-  - Name Surname
+  - Anya Vostinar
+  - Kamil S. Jaron
 Publication:
-  received:  xxx,  x, xxxx
-  accepted:  xxx, x, xxxx
-  published: xxx, x, xxxx
-  volume:    "**x**"
-  issue:     "**x**"
-  date:      xxx xxx
+  received:  Feb, 22, 2017
+  accepted:  Jul, 4, 2017
+  published: Aug, 23, 2017
+  volume:    "**3**"
+  issue:     "**1**"
+  date:      Aug 2017
+  number:    5
 Repository:
-  article:   "http://github.com/rescience/rescience-submission/article"
-  code:      "http://github.com/rescience/rescience-submission/code"
+  article:   "http://github.com/ReScience-Archives/Stollmeier-2017/article"
+  code:      "http://github.com/ReScience-Archives/Stollmeier-2017/code"
   data:      
   notebook:  
 Reproduction:
